@@ -73,7 +73,7 @@ async function buildFunction() {
 }
 
 function cloneMyself() {
-    child_process.execSync(`git clone https://github.com/ilteoood/docker_buildx`);
+    child_process.execSync(`git clone https://github.com/zmingxie/docker_buildx`);
 }
 
 function cleanMyself() {
